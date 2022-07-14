@@ -6,7 +6,7 @@ Rob retired last year after a life designing and building high tech products and
 
 As a CTO/development manager Rob enjoyed building great teams along the way touching many development models and communication models.
 
-I have extensive experience designing and developing large solutions but also multi platform tools and utilities. Having been a leader for 25+ years adds Leadership, project management, quality assurance, SDLC and transitioning teams to TDD to my repertoire.
+Rob has extensive experience designing and developing large solutions but also multi platform tools and utilities. Having been a leader for 25+ years adds Leadership, project management, quality assurance, SDLC and transitioning teams to TDD to his repertoire.
 
 Now that Rob no longer works he spends time daily to improve his skills and learn new technologies and techniques. Among other things he enjoys the ins & outs and new versions of C#, VS2022, VS Code, MSSQL, JS, TS, HTML, CSS, etcetera.
 
