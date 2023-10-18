@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Rob retired last year after a life designing and building high tech products and doing a few startup companies (only two succeeded). Rob started in Basic, then Assembly, C, C++ and now C#. Rob started early stage web development with CGI and SGML and continued all the way. Rob's preferred environment is NET6/7 with MVC and EF with tentative steps into Blazor WASM and Server. Rob also enjoys building Iot devices (RPI, ESP32 & Wemos D1 R2) and automating home and garden, currently using C++ and PlatformIO for the embedded code.
+Rob retired in 2020 after a life designing and building high tech products and doing a few startup companies (only two succeeded). Rob started in Basic, then Assembly, C, C++ and now C#. Rob started early stage web development with CGI and SGML and continued all the way. Rob's preferred environment is NET6/7 with MVC and EF with tentative steps into Blazor WASM and Server. Rob also enjoys building Iot devices (RPI, ESP32 & Wemos D1 R2) and automating home and garden, currently using C++ and PlatformIO for the embedded code.
 
 As a CTO/development manager Rob enjoyed building great teams along the way touching many development models and communication models.
 
